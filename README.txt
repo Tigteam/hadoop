@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTigteam%2Fhadoop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTigteam%2Fhadoop?ref=badge_shield)
+
 For the latest information about Hadoop, please visit our website at:
 
    http://hadoop.apache.org/core/
@@ -29,3 +31,7 @@ The following provides more details on the included cryptographic
 software:
   Hadoop Core uses the SSL libraries from the Jetty project written 
 by mortbay.org.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTigteam%2Fhadoop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTigteam%2Fhadoop?ref=badge_large)
